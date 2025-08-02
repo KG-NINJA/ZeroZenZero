@@ -1,0 +1,2 @@
+NDVI mean: -0.0616
+NDVI std: 0.5681
