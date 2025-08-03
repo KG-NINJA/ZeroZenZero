@@ -1,3 +1,8 @@
 .env
 data/raw/
 google-credentials.json
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
